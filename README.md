@@ -59,8 +59,8 @@ Here are some of the technologies I've been working with:
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AANSHIKA-VERMA&show_icons=true&locale=en&theme=dracula" alt="Aanshika's GitHub stats" height="500" width="400" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AANSHIKA-VERMA&layout=compact&locale=en&theme=dracula" alt="Top Languages" height="500"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AANSHIKA-VERMA&show_icons=true&locale=en&theme=holi" alt="Aanshika's GitHub stats" height="500" width="400" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AANSHIKA-VERMA&layout=compact&locale=en&theme=holi" alt="Top Languages" height="500"/>
 </p>
 
 ---
